@@ -25,11 +25,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ashagmp&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/ashagmp
 
