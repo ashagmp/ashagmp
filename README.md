@@ -1,49 +1,68 @@
-<h1 align="center"> Hi👋,I'm Ashag Mp</h1>
+# Hi, I'm Ashag 👋
 
-## 🚀 About Me
-- 💻 Focused on **Cybersecurity**
-- 🧠 Currently learning: **Networking, Exploitation, and Security Concepts**
-- 🎯 Goal: Become a **skilled security professional**
-- 📚 Continuously exploring vulnerabilities, tools, and attack techniques
+Cybersecurity student from Kerala, India — training at **Offenso Hacker Academy** and completing a **BCA from IGNOU**.
+
+Actively seeking my first role as a **SOC Analyst** or **Penetration Tester**.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python (basic)
-- **Cybersecurity:**
-  - Nmap (Enumeration)
-  - Burp Suite (Web Testing)
-  - Basic Brute Forcing Techniques
-- **Other Tools:** Git, Linux
+## 🛡️ What I Do
+
+- **Blue Team** — Threat intelligence, log analysis, incident detection, CVE monitoring
+- **Red Team** — Port scanning, enumeration, web application testing, exploitation basics
 
 ---
 
-## 🔥 What I’m Working On
-- Improving **penetration testing skills**
-- Practicing **real-world attack scenarios**
-- Learning **advanced enumeration and exploitation**
+## 🔧 Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| SIEM & Monitoring | Splunk, Wireshark |
+| Offensive Security | Metasploit, Burp Suite, Nmap, Shodan, Kali Linux |
+| Development | Python, Flask, SQLite, Bash |
+| Platforms | TryHackMe, LetsDefend |
+| Other | Git, Linux |
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/ashagmp
+## 🚀 Projects
+
+### [Threat Intelligence Aggregator](https://github.com/ashagmp/threat-intel-aggregator)
+SOC analyst dashboard pulling real threat data from government security APIs.
+- Live CVE search from NVD database with severity filtering
+- Real-time threat feed from CISA KEV (actively exploited vulnerabilities)
+- Bookmark system and PDF report export
+- **Stack:** Python, Flask, SQLite, ReportLab
+
+### [Log Analyzer](https://github.com/ashagmp/log-analyzer)
+Security log analysis dashboard for detecting attacks in Apache access logs.
+- Detects SQL Injection, XSS, Path Traversal, Brute Force, Command Injection
+- Maps findings to MITRE ATT&CK techniques
+- Tested on real 10,000 line production log — detected 35 unique attacking IPs
+- **Stack:** Python, Flask, ReportLab
+
+### [Network Scanner](https://github.com/ashagmp/network-scanner)
+Multithreaded port scanner with service detection and banner grabbing.
+- Fast concurrent scanning with Python threading
+- Service fingerprinting and banner grabbing
+- **Stack:** Python, Flask
 
 ---
 
-## ⚡ Fun Fact
-- I like analyzing systems to find weaknesses and understand how to secure them
+## 📜 Training & Education
 
-<!--
-**ashagmp/ashagmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BCA — IGNOU (Expected 2026)
+- 🏫 Offensive & Defensive Security Training — Offenso Hacker Academy, Kerala
+- 🏆 TryHackMe — SOC Level 1 Path
+- 📚 LetsDefend — Blue Team Practice
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+
+- 💼 [LinkedIn](https://in.linkedin.com/in/ashag-mp-141698210)
+- 🐙 [GitHub](https://github.com/ashagmp)
+
+---
+
+*Open to entry-level SOC Analyst and Penetration Testing roles.*
