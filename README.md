@@ -8,8 +8,8 @@ Actively seeking my first role as a **SOC Analyst** or **Penetration Tester**.
 
 ## 🛡️ What I Do
 
-- **Blue Team** — Threat intelligence, log analysis, incident detection, CVE monitoring
-- **Red Team** — Port scanning, enumeration, web application testing, exploitation basics
+- **Blue Team** — Threat intelligence, log analysis, incident detection, CVE monitoring, SIEM setup
+- **Red Team** — Port scanning, enumeration, web application testing, mobile security, exploitation
 
 ---
 
@@ -17,8 +17,10 @@ Actively seeking my first role as a **SOC Analyst** or **Penetration Tester**.
 
 | Category | Tools |
 |---|---|
-| SIEM & Monitoring | Splunk, Wireshark |
-| Offensive Security | Metasploit, Burp Suite, Nmap, Shodan, Kali Linux |
+| SIEM & Monitoring | Splunk, Wazuh, Wireshark |
+| Offensive Security | Metasploit, Burp Suite, Nmap, Shodan, Kali Linux, Nessus |
+| Web Enumeration | Gobuster, Dirb , Wappalyzer, FFUF, Nikto, WPScan|
+| Mobile Security | Jadx, Frida, Objection |
 | Development | Python, Flask, SQLite, Bash |
 | Platforms | TryHackMe, LetsDefend |
 | Other | Git, Linux |
@@ -53,7 +55,7 @@ Multithreaded port scanner with service detection and banner grabbing.
 
 - 🎓 BCA — IGNOU (Expected 2026)
 - 🏫 Offensive & Defensive Security Training — Offenso Hacker Academy, Kerala
-- 🏆 TryHackMe — SOC Level 1 Path
+- 🏆 TryHackMe — SOC Level 1 Path (In Progress)
 - 📚 LetsDefend — Blue Team Practice
 
 ---
