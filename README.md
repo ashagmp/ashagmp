@@ -2,9 +2,9 @@
 
 Aspiring SOC Analyst and Cybersecurity Professional from Kerala, India.
 
-Currently completing my BCA from IGNOU and undergoing Offensive & Defensive Security Training at Offenso Hacker Academy.
+BCA graduate from IGNOU with Offensive & Defensive Security Training from Offenso Hacker Academy.
 
-I'm building hands-on experience through cybersecurity labs, security projects, and controlled attack-and-detection scenarios, with a primary focus on **SOC operations, SIEM, Windows security, and detection engineering**.
+I'm building hands-on experience through cybersecurity labs, security projects, and controlled attack-and-detection scenarios, with a primary focus on **SOC operations, SIEM, Windows security, detection engineering, and incident investigation**.
 
 ## 🛡️ Security Focus
 
@@ -13,9 +13,12 @@ I'm building hands-on experience through cybersecurity labs, security projects, 
 - Security log analysis
 - Windows Event Log and Sysmon analysis
 - Authentication monitoring
-- Detection engineering
+- SPL-based detection engineering
 - Threat intelligence and CVE monitoring
-- Basic incident investigation
+- IOC identification
+- MITRE ATT&CK mapping
+- Incident timeline reconstruction
+- Basic incident investigation and response
 
 ### Red Team
 - Network enumeration
@@ -35,10 +38,25 @@ I'm building hands-on experience through cybersecurity labs, security projects, 
 | Web Enumeration | Gobuster, Dirb, Wappalyzer, FFUF, Nikto, WPScan |
 | Mobile Security | JADX, Frida, Objection |
 | Development | Python, Flask, SQLite, Bash |
-| Platforms | TryHackMe, LetsDefend |
-| Other | Git, Linux |
+| Platforms | Linux, Windows, VirtualBox |
+| Other | Git, GitHub |
 
 ## 🚀 Projects
+
+### SOC Lab 03 — SOC Investigation
+
+🔗 [View Project](https://github.com/ashagmp/soc-lab-03-soc-investigation)
+
+Hands-on SOC investigation lab focused on detecting and investigating controlled attacks against a Windows/Linux enterprise environment using Splunk.
+
+- Investigated network reconnaissance, SSH brute force, and RDP brute force attacks
+- Analyzed Windows Security, Sysmon, and Linux authentication telemetry
+- Built SPL queries for detection and investigation
+- Reconstructed attack timelines and identified indicators of compromise
+- Mapped investigations to MITRE ATT&CK
+- Documented investigation findings, response actions, and detection gaps
+
+**Stack:** Splunk Enterprise, SPL, Sysmon, Windows, Linux, Kali Linux, MITRE ATT&CK
 
 ### SOC Lab 02 — Enterprise SIEM
 
@@ -69,7 +87,7 @@ Built a virtualized enterprise environment containing Windows Server, Windows en
 - Network segmentation
 - Security testing environment
 
-**Stack:** Windows Server, Windows 11, Ubuntu, Kali Linux, Active Directory
+**Stack:** Windows Server, Windows 11, Ubuntu, Kali Linux, Active Directory, VirtualBox
 
 ### Threat Intelligence Aggregator
 
@@ -101,22 +119,10 @@ Security log analysis dashboard for identifying suspicious activity in Apache ac
 
 **Stack:** Python, Flask, ReportLab
 
-### Network Scanner
-
-🔗 [View Project](https://github.com/ashagmp/network-scanner)
-
-Multithreaded network scanner with service detection and banner grabbing.
-
-- Concurrent port scanning
-- Service fingerprinting
-- Banner grabbing
-
-**Stack:** Python, Flask
-
 ## 📜 Training & Education
 
-🎓 **BCA — IGNOU**  
-Expected 2026
+🎓 **BCA — Indira Gandhi National Open University (IGNOU)**  
+2026
 
 🏫 **Offensive & Defensive Security Training — Offenso Hacker Academy**
 
@@ -127,11 +133,10 @@ Currently seeking entry-level opportunities as a:
 - SOC Analyst / SOC Analyst L1
 - Junior Security Analyst
 - Cybersecurity Analyst
-- Penetration Tester
 
-I'm particularly interested in roles where I can develop practical experience in **security monitoring, SIEM, detection engineering, vulnerability assessment, and security operations**.
+I'm particularly interested in roles where I can develop practical experience in **security monitoring, SIEM, detection engineering, incident investigation, vulnerability assessment, and security operations**.
 
 ## 📫 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/ashag-mp-141698210/)   
+💼 [LinkedIn](https://www.linkedin.com/in/ashag-mp-141698210/)  
 🐙 [GitHub](https://github.com/ashagmp)
